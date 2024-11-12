@@ -4,6 +4,9 @@ This repository contains materials for the workshop **"Decoding the Brain throug
 
 ---
 
+## Workshop Instructors
+Lucas CS Tavares (lucastavares@neuro.ufrn.br), Rodrigo MM Santiago (rsantiago@neuro.ufrn.br)
+
 ## Workshop Overview
 
 This workshop offers a blend of theory and practice in machine learning for neural data analysis. By the end, participants will have a foundational understanding of neural coding principles and practical skills in using Python-based tools to decode brain activity.
@@ -74,35 +77,14 @@ This workshop offers a blend of theory and practice in machine learning for neur
 
 ---
 
-## Example Code
-
-Example for dimensionality reduction with PCA:
-```python
-from sklearn.decomposition import PCA
-import matplotlib.pyplot as plt
-
-# Sample data
-data = ...  # load your data here
-
-# Apply PCA
-pca = PCA(n_components=2)
-reduced_data = pca.fit_transform(data)
-
-# Plot results
-plt.scatter(reduced_data[:, 0], reduced_data[:, 1])
-plt.title('PCA Projection')
-plt.xlabel('PC1')
-plt.ylabel('PC2')
-plt.show()
-```
 
 ## Contributing
 We welcome contributions to improve the workshop materials! If you find any issues or have suggestions, feel free to open an issue or a pull request.
 
 ## License
-This workshop material is licensed under the MIT License. See LICENSE for more details.
+This workshop material is under the MIT License, so you can freely reproduce, modify and distribute it. See LICENSE for more details.
 
 ## Contact
-For questions or feedback, please reach out via the GitHub Issues page, or contact the workshop organizer directly.
+For questions or feedback, please reach out via the GitHub Issues page, or contact the workshop organizers directly via email.
 
 Happy learning and decoding!
