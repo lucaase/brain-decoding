@@ -94,6 +94,7 @@ plt.title('PCA Projection')
 plt.xlabel('PC1')
 plt.ylabel('PC2')
 plt.show()
+```
 
 ## Contributing
 We welcome contributions to improve the workshop materials! If you find any issues or have suggestions, feel free to open an issue or a pull request.
