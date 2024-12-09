@@ -7,6 +7,9 @@ This repository contains materials for the workshop **"Decoding the Brain throug
 ## Workshop Instructors
 Lucas CS Tavares (lucastavares@neuro.ufrn.br), Rodrigo MM Santiago (rsantiago@neuro.ufrn.br)
 
+## Workshop slides
+[Google Slides](https://docs.google.com/presentation/d/1Nv_1vBjO3vQBcgrA4wjvwYYt3w4C8AFqnnY2h10KlD8/edit?usp=sharing)
+
 ## Workshop Overview
 
 This workshop offers a blend of theory and practice in machine learning for neural data analysis. By the end, participants will have a foundational understanding of neural coding principles and practical skills in using Python-based tools to decode brain activity.
