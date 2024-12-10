@@ -36,9 +36,6 @@ This workshop offers a blend of theory and practice in machine learning for neur
 
 - **Python** (3.7 or higher)
 - **Jupyter Notebook** or **Google Colab** for running the notebook interactively
-- **Python Libraries**: Install required packages using:
-  ```bash
-  pip install -r requirements.txt
 
 ### Files in this Repository
 
